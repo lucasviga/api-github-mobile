@@ -1,3 +1,23 @@
-Na tela HOME
-[X] precisamos de um input para digitar o usuário desejado e um botão para executar a busca
-[X] consumir a rota github.com/users/{EXAMPLE}
+api-github-mobile
+
+## Getting Started
+
+
+install dependecies
+```
+yarn install or npm install
+```
+
+run app on Windows or Linux
+```
+yarn android
+```
+
+run app on Mac
+```
+cd ios && pod install
+```
+
+```
+yarn ios
+```
